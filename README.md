@@ -10,12 +10,12 @@ I am passionate about Artificial Intelligence, Machine Learning, Computer Vision
 
 ### 🌍 Image Fusion for Improved Situational Awareness in Remote Sensing
 - EO & SAR Image Fusion
-- Image Processing
 - Computer Vision
+- Image Processing
 - Machine Learning
 - Remote Sensing
 
-🔗 Repository: https://github.com/Amith786/image-fusion-remote-sensing
+🔗 **[View Repository](https://github.com/Amith786/image-fusion-remote-sensing)**
 
 ---
 
@@ -25,7 +25,7 @@ I am passionate about Artificial Intelligence, Machine Learning, Computer Vision
 - LBPH Face Recognizer
 - OpenCV & Python
 
-🔗 Repository: https://github.com/Amith786/Face-Recognition
+🔗 **[View Repository](https://github.com/Amith786/Face-Recognition)**
 
 ---
 
@@ -35,18 +35,17 @@ I am passionate about Artificial Intelligence, Machine Learning, Computer Vision
 - Data Preprocessing
 - Model Evaluation
 
-🔗 Repository: https://github.com/Amith786/breast-cancer-classification
+🔗 **[View Repository](https://github.com/Amith786/breast-cancer-classification)**
 
 ---
 
 ### 🚗 Car Sales Prediction
 - Regression Models
 - Data Analysis
-- Data Visualization
 - Predictive Analytics
+- Data Visualization
 
-🔗 Repository: https://github.com/Amith786/car-sales-prediction
-
+🔗 **[View Repository](https://github.com/Amith786/car-sales-prediction)**
 ---
 
 # 🛠️ Tech Stack
