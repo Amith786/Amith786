@@ -1,75 +1,86 @@
-# Hi 👋, I'm Amith Anand
+# Hi 👋 I'm Amith Anand
 
 ## AI & Data Science Graduate | Python Developer | Machine Learning | Computer Vision | Aspiring AI Engineer
 
-I am an Artificial Intelligence and Data Science graduate passionate about building intelligent systems that solve real-world problems. My interests include Machine Learning, Computer Vision, Data Analytics, Image Processing, and Remote Sensing. I continuously improve my skills by developing practical projects, exploring new technologies, and preparing for advanced studies in Artificial Intelligence and Data Science.
+I am an **Artificial Intelligence and Data Science graduate** passionate about building intelligent systems using **Machine Learning, Computer Vision, Data Science, Python, and AI**. I enjoy solving real-world problems through practical projects, continuously learning new technologies, and preparing for higher studies in Germany.
+
+---
+
+# 💡 About Me
+
+* 🎓 B.Tech in Artificial Intelligence & Data Science
+* 🇮🇳 Based in Kerala, India
+* 🇩🇪 Preparing for Master's in Germany (Winter 2027)
+* 🤖 Passionate about Artificial Intelligence, Machine Learning, Computer Vision, and Data Science
+* 🌱 Currently improving Python, Data Science, Computer Vision, SQL, and German (A2)
+* 📧 Reach me: **[anandamith378@gmail.com](mailto:anandamith378@gmail.com)**
+* 💼 LinkedIn: **[www.linkedin.com/in/amith-anand](http://www.linkedin.com/in/amith-anand)**
 
 ---
 
 # 🚀 Featured Projects
 
-### 🌍 Image Fusion for Improved Situational Awareness in Remote Sensing
+## 🌍 Image Fusion for Improved Situational Awareness in Remote Sensing
 
-**Final Year Project**
+Developed an AI-powered image fusion system integrating **EO and SAR imagery** to improve situational awareness using image processing and machine learning techniques.
 
-Developed an image fusion system that combines Electro-Optical (EO) and Synthetic Aperture Radar (SAR) imagery to improve situational awareness under varying environmental conditions using image processing and machine learning techniques.
+### 🛠 Technologies
 
-**Technologies**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square\&logo=opencv\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-orange?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-blue?style=flat-square)
+![Remote Sensing](https://img.shields.io/badge/Remote%20Sensing-success?style=flat-square)
 
-* Python
-* OpenCV
-* NumPy
-* Machine Learning
-* Computer Vision
-* Remote Sensing
-* Image Processing
-
-🔗 **Repository:** https://github.com/Amith786/image-fusion-remote-sensing
+[![View Repository](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge\&logo=github)](https://github.com/Amith786/image-fusion-remote-sensing)
 
 ---
 
-### 👤 Face Recognition using OpenCV
+## 👤 Face Recognition using OpenCV
 
-Developed a real-time face recognition application capable of detecting and recognizing faces using OpenCV, Haar Cascade Classifier, and the LBPH Face Recognizer.
+Built a real-time face recognition system using **Python, OpenCV, Haar Cascade Classifier, and LBPH Face Recognizer** for detecting and recognizing faces through a webcam.
 
-**Technologies**
+### 🛠 Technologies
 
-* Python
-* OpenCV
-* Haar Cascade
-* LBPH Face Recognizer
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square\&logo=opencv\&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-blue?style=flat-square)
+![Haar Cascade](https://img.shields.io/badge/Haar%20Cascade-4CAF50?style=flat-square)
+![LBPH](https://img.shields.io/badge/LBPH-F57C00?style=flat-square)
 
-🔗 **Repository:** https://github.com/Amith786/Face-Recognition
-
----
-
-### 🎗 Breast Cancer Classification
-
-Built a machine learning model to classify breast cancer tumors as benign or malignant through data preprocessing, model training, and performance evaluation.
-
-**Technologies**
-
-* Python
-* Scikit-learn
-* Pandas
-* NumPy
-
-🔗 **Repository:** https://github.com/Amith786/breast-cancer-classification
+[![View Repository](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge\&logo=github)](https://github.com/Amith786/Face-Recognition)
 
 ---
 
-### 🚗 Car Sales Prediction
+## 🎗 Breast Cancer Classification
 
-Developed a regression-based machine learning model to analyze historical data and predict future car sales trends.
+Developed a machine learning model to classify breast cancer tumors as **benign or malignant** using preprocessing, feature engineering, and predictive analytics.
 
-**Technologies**
+### 🛠 Technologies
 
-* Python
-* Pandas
-* Matplotlib
-* Scikit-learn
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square\&logo=scikitlearn\&logoColor=white)
 
-🔗 **Repository:** https://github.com/Amith786/car-sales-prediction
+[![View Repository](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge\&logo=github)](https://github.com/Amith786/breast-cancer-classification)
+
+---
+
+## 🚗 Car Sales Prediction
+
+Developed a regression-based machine learning model to analyze historical vehicle sales data and forecast future sales trends.
+
+### 🛠 Technologies
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square\&logo=scikitlearn\&logoColor=white)
+
+[![View Repository](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge\&logo=github)](https://github.com/Amith786/car-sales-prediction)
 
 ---
 
@@ -77,73 +88,45 @@ Developed a regression-based machine learning model to analyze historical data a
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data%20Science-0A66C2?style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge\&logo=tableau\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
-**Core Skills**
-
-* Machine Learning
-* Computer Vision
-* Data Science
-* Data Analytics
-* Image Processing
-* Remote Sensing
-* Artificial Intelligence
-
 ---
 
 # 🏆 Certifications
 
-* 🇩🇪 Goethe-Zertifikat A1 German
-* ☁️ AWS Cloud Foundations
-* 🗄️ HackerRank SQL (Basic)
-* 📊 Microsoft Power BI
-* 💻 Python & Java Development Internship (Tech Octanet)
-* 🤖 Artificial Intelligence Internship (CodSoft)
-
----
-
-# 🎓 Education
-
-**Bachelor of Technology (B.Tech.)**
-**Artificial Intelligence and Data Science**
-
-Dhaanish Ahmed College of Engineering
-Anna University
-
-**CGPA:** 8.27 / 10
+* 🇩🇪 Goethe-Zertifikat A1
+* AWS Cloud Foundations
+* HackerRank SQL (Basic)
+* Microsoft Power BI
+* Tech Octanet Python & Java Internship
+* CodSoft Artificial Intelligence Internship
 
 ---
 
 # 🎯 Current Goal
 
-* Pursuing a Master's degree in Germany (Winter 2027)
-* Building strong AI, Machine Learning, and Computer Vision projects
-* Contributing to open-source software
-* Continuously improving programming and data science skills
+I am currently preparing for **Master's in Germany (Winter 2027)** while strengthening my expertise in Artificial Intelligence, Machine Learning, Data Science, Computer Vision, and Software Development through hands-on projects and continuous learning.
 
 ---
 
-# 📊 GitHub Stats
+# 🤝 Connect with Me
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amith786\&show_icons=true\&theme=github_dark)
+📧 **Email:** [anandamith378@gmail.com](mailto:anandamith378@gmail.com)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amith786\&layout=compact\&theme=github_dark)
+💼 **LinkedIn:** https://www.linkedin.com/in/amith-anand
 
----
-
-# 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amith%20Anand-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/amith-anand)
-
-[![Email](https://img.shields.io/badge/Gmail-anandamith378%40gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:anandamith378@gmail.com)
+🐙 **GitHub:** https://github.com/Amith786
 
 ---
 
-⭐ Thank you for visiting my GitHub profile. Feel free to explore my repositories, connect with me on LinkedIn, or collaborate on AI, Machine Learning, Computer Vision, and Data Science projects.
+⭐ **Thank you for visiting my profile! Feel free to explore my repositories, connect with me, and collaborate on exciting AI and Data Science projects.**
