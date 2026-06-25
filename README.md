@@ -102,14 +102,76 @@ Developed a regression-based machine learning model to analyze historical vehicl
 
 ---
 
-# 🏆 Certifications
+## 🏆 Certifications
 
-* 🇩🇪 Goethe-Zertifikat A1
-* AWS Cloud Foundations
-* HackerRank SQL (Basic)
-* Microsoft Power BI
-* Tech Octanet Python & Java Internship
-* CodSoft Artificial Intelligence Internship
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🇩🇪 Goethe-Zertifikat A1
+
+**Goethe-Institut**
+
+German Language Certification
+
+</td>
+
+<td align="center" width="50%">
+
+### ☁️ AWS Cloud Foundations
+
+**Amazon Web Services**
+
+Cloud Computing Fundamentals
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 💻 SQL (Basic)
+
+**HackerRank**
+
+SQL Database Certification
+
+</td>
+
+<td align="center">
+
+### 📊 Microsoft Power BI
+
+**UniAthena**
+
+Data Visualization & Business Intelligence
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 💼 Tech Octanet Internship
+
+**Python & Java Development**
+
+Internship Certificate
+
+</td>
+
+<td align="center">
+
+### 🤖 CodSoft Internship
+
+**Artificial Intelligence**
+
+AI Internship Certificate
+
+</td>
+</tr>
+</table>
+
 
 ---
 
