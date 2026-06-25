@@ -102,22 +102,14 @@ Developed a regression-based machine learning model to analyze historical vehicl
 
 ---
 
-## 🏆 Certifications
+# 🏆 Certifications
 
-<div align="center">
-
-<a href="#"><img src="https://img.shields.io/badge/🇩🇪_Goethe--Zertifikat_A1-Goethe--Institut-005CA9?style=for-the-badge" /></a> <a href="#"><img src="https://img.shields.io/badge/☁️_AWS_Cloud_Foundations-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /></a>
-
-<br><br>
-
-<a href="#"><img src="https://img.shields.io/badge/💻_SQL_(Basic)-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/📊_Microsoft_Power_BI-UniAthena-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /></a>
-
-<br><br>
-
-<a href="#"><img src="https://img.shields.io/badge/💼_Tech_Octanet-Internship-0A66C2?style=for-the-badge" /></a> <a href="#"><img src="https://img.shields.io/badge/🤖_CodSoft-AI_Internship-EA4335?style=for-the-badge" /></a>
-
-</div>
-
+* 🇩🇪 Goethe-Zertifikat A1
+* AWS Cloud Foundations
+* HackerRank SQL (Basic)
+* Microsoft Power BI
+* Tech Octanet Python & Java Internship
+* CodSoft Artificial Intelligence Internship
 
 ---
 
