@@ -104,73 +104,19 @@ Developed a regression-based machine learning model to analyze historical vehicl
 
 ## 🏆 Certifications
 
-<table>
-<tr>
-<td align="center" width="50%">
+<div align="center">
 
-### 🇩🇪 Goethe-Zertifikat A1
+<a href="#"><img src="https://img.shields.io/badge/🇩🇪_Goethe--Zertifikat_A1-Goethe--Institut-005CA9?style=for-the-badge" /></a> <a href="#"><img src="https://img.shields.io/badge/☁️_AWS_Cloud_Foundations-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /></a>
 
-**Goethe-Institut**
+<br><br>
 
-German Language Certification
+<a href="#"><img src="https://img.shields.io/badge/💻_SQL_(Basic)-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/📊_Microsoft_Power_BI-UniAthena-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /></a>
 
-</td>
+<br><br>
 
-<td align="center" width="50%">
+<a href="#"><img src="https://img.shields.io/badge/💼_Tech_Octanet-Internship-0A66C2?style=for-the-badge" /></a> <a href="#"><img src="https://img.shields.io/badge/🤖_CodSoft-AI_Internship-EA4335?style=for-the-badge" /></a>
 
-### ☁️ AWS Cloud Foundations
-
-**Amazon Web Services**
-
-Cloud Computing Fundamentals
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-### 💻 SQL (Basic)
-
-**HackerRank**
-
-SQL Database Certification
-
-</td>
-
-<td align="center">
-
-### 📊 Microsoft Power BI
-
-**UniAthena**
-
-Data Visualization & Business Intelligence
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-### 💼 Tech Octanet Internship
-
-**Python & Java Development**
-
-Internship Certificate
-
-</td>
-
-<td align="center">
-
-### 🤖 CodSoft Internship
-
-**Artificial Intelligence**
-
-AI Internship Certificate
-
-</td>
-</tr>
-</table>
+</div>
 
 
 ---
