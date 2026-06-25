@@ -33,24 +33,11 @@ I am passionate about Artificial Intelligence, Machine Learning, Computer Vision
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=python,opencv,git,github,mysql)](https://skillicons.dev)
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-0A66C2?style=for-the-badge)
-![Data Science](https://img.shields.io/badge/Data%20Science-0066CC?style=for-the-badge)
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+**Machine Learning • Computer Vision • Data Science • Power BI • Tableau • Scikit-learn • Pandas • NumPy**
 ---
 
 ## 🎓 Education
