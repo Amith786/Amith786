@@ -20,6 +20,23 @@ I am an **Artificial Intelligence and Data Science graduate** passionate about b
 
 # 🚀 Featured Projects
 
+## 🌧️ Leakage-Aware Machine Learning for Kerala Rainfall Prediction
+
+Developed a reproducible machine learning framework for **monthly rainfall prediction in Kerala, India**, focusing on **temporal data leakage prevention, chronological validation, model benchmarking, explainable AI, uncertainty evaluation, and long-term rainfall analysis**.
+
+### 🛠 Technologies
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC4E20?style=flat-square)
+![LightGBM](https://img.shields.io/badge/LightGBM-2E7D32?style=flat-square)
+![SHAP](https://img.shields.io/badge/SHAP-Explainable%20AI-6A1B9A?style=flat-square)
+![Time Series](https://img.shields.io/badge/Time%20Series-blue?style=flat-square)
+
+[![View Repository](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/Amith786/Kerala-Rainfall-Leakage-Aware-ML)
+
 ## 🌍 Image Fusion for Improved Situational Awareness in Remote Sensing
 
 Developed an AI-powered image fusion system integrating **EO and SAR imagery** to improve situational awareness using image processing and machine learning techniques.
